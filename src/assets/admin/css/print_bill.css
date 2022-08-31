@@ -1,0 +1,26 @@
+.bodys {
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: large;
+    font-weight: 600;
+    line-height: 2rem;
+  }
+  .mains {
+    border: 2px solid black;
+    margin: auto;
+    max-width: 60rem;
+    padding: 2rem;
+  }
+
+  .subheading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .signature{
+    display: flex;
+    align-items:center;
+    justify-content: end;
+  }
